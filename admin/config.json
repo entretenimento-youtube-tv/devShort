@@ -1,8 +1,8 @@
 {
     "installer": {
-        "username": "admin",
-        "password": "teste12"
-    },
+        "nome do usuário" : "Katarina",
+        "senha" : "RecRutaKill.919" ,
+    }
     "settings": {
         "name": "devShort shortlink service",
         "author": "The admin",
